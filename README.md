@@ -14,6 +14,8 @@
 - 🌱 I’m currently learning **JAVA Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- ✨ Lover of  **javascript**
 <!--
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
   -->
