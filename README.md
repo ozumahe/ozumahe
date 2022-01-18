@@ -9,13 +9,9 @@
 
 - ✨ Lover of **javascript**
 
-- 🔭 I’m currently working on Music App
+- 🔭 I’m currently working on a Covid-19 Tracker **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
 
-<!--
-**[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
- -->
-
-- 🌱 I’m currently learning **JAVA Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
