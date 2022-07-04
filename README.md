@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ozumah</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Nigeria.</h3>
+<h3 align="center">I'm a passionate Software Engineer from Nigeria.</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -75,10 +75,12 @@
 
 <p align="left">
 
-<a href = "https://www.facebook.com/ozumahE"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+<a href = "https://linkedin.com/in/ozumahe/"><img src="https://img.icons8.com/color/48/linkedin-circled--v1.png"/></a>
 <a href = "https://twitter.com/ozumahe?s=09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://instagram.com/ozumahe"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCvPoeihvp12qf8wauTXEcaA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.facebook.com/ozumahE"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+
+<!-- <a href = "https://www.youtube.com/channel/UCvPoeihvp12qf8wauTXEcaA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
 </p>
 
