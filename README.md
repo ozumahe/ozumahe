@@ -5,19 +5,18 @@
 
 ## 🙋‍♂️ About Me
 
+<!--
 - 🔭 Founder of **[zumatek](https://email-8a5bc.web.app/)** for web/software Development
+- 🔭 I’m currently working on a Covid-19 Tracker **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+ -->
 
 - ✨ Lover of **javascript**
-
-- 🔭 I’m currently working on a Covid-19 Tracker **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
 
 - 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-<!--
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
-  -->
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://ozumahe.com)**
 
 - 📫 How to reach me **ozumahe@gmail.com**
 
