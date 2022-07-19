@@ -12,7 +12,7 @@
 
 - ✨ Lover of **javascript**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Jest**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
