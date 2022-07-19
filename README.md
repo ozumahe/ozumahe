@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **ozumahe@gmail.com**
 
-- ⚡ Fun fact **I play games and read technology books some times.**
+<!-- - ⚡ Fun fact **I play games and read technology books some times.** -->
 
 ## 🚀 Languages and Tools:
 
