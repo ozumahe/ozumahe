@@ -12,7 +12,7 @@
 
 - ✨ Lover of **javascript**
 
-- 🌱 I’m currently learning **Jest**
+- 🌱 I’m currently learning **Data Structure and Algorithm**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -30,6 +30,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/1x/000000/javascript.png"/>  </a> 
     <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://img.icons8.com/color/1x/typescript.png"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/1x/000000/react-native.png"/> </a>
+    <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/1x/angularjs.png"/> </a>
     <a href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/color/1x/redux.png"/> </a>
     <a href="httpshttps://vuejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="45" height="45"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/fluency/1x/node-js.png"/> </a> 
