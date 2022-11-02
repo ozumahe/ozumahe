@@ -85,7 +85,7 @@
 <a href = "https://instagram.com/ozumahe"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/ozumahE"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 
-<!-- <a href = "https://www.youtube.com/channel/UCvPoeihvp12qf8wauTXEcaA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
+<a href = "https://www.youtube.com/channel/UCvPoeihvp12qf8wauTXEcaA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
