@@ -1,22 +1,22 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ozumah</h1>
-<h3 align="center">I'm a passionate Software Engineer from Nigeria.</h3>
+<h3 align="center">I'm a Software Engineer from Nigeria.</h3>
 
 ## 🙋‍♂️ About Me
 
+<!-- - 🔭 Founder of **[zumatek](https://email-8a5bc.web.app/)** for web/software Development
+- 🔭 I’m currently working on a Covid-19 Tracker **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
+
+<!-- - ✨ Lover of **javascript** -->
+
+- ✨ Experienced with JavaScript and Completed Complex Projects with **javascript** and its **framworks/library**
 <!--
-- 🔭 Founder of **[zumatek](https://email-8a5bc.web.app/)** for web/software Development
-- 🔭 I’m currently working on a Covid-19 Tracker **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
- -->
-
-- ✨ Lover of **javascript**
-
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://ozumahe.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://ozumahe.com)** -->
 
 - 📫 How to reach me **ozumahe@gmail.com**
 
@@ -32,7 +32,6 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/1x/000000/react-native.png"/> </a>
     <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/1x/angularjs.png"/> </a>
     <a href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/color/1x/redux.png"/> </a>
-    <a href="httpshttps://vuejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="45" height="45"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/fluency/1x/node-js.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/1x/000000/mysql-logo.png"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/000000/firebase.png"/> </a> 
@@ -91,7 +90,7 @@
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/ozumahe/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ozumahe">
 </a>
 <a href="https://github.com/ozumahe?tab=followers"><img src="https://img.shields.io/github/followers/ozumahe?label=Followers&style=social" alt="GitHub Badge"></a>
