@@ -25,7 +25,8 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <!-- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/2x/000000/html-5.png"/> </a> 
+    <!-- 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/2x/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/2x/000000/css3.png"/> </a>  -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/1x/000000/javascript.png"/>  </a> 
     <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://img.icons8.com/color/1x/typescript.png"/> </a> 
@@ -40,9 +41,9 @@
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/sass-avatar.png"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/mongodb.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <!-- 
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
@@ -55,7 +56,7 @@
 
 <p align="center">
     <a href="https://github.com/ozumahe/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ozumahe&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
