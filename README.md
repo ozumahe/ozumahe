@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://ozumahe.com)** -->
 
-- 📫 How to reach me **ozumahe@gmail.com**
+<!-- - 📫 How to reach me **ozumahe@gmail.com** -->
 
 <!-- - ⚡ Fun fact **I play games and read technology books some times.** -->
 
