@@ -1,97 +1,211 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-<!-- 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ozumah</h1>
-<h3 align="center">I'm a Software Engineer from Nigeria.</h3> -->
+# Hi, I'm Ebenezer Ozumah 👋
 
-## 🙋‍♂️ About Me
+### AI/ML Engineer in Training | Software Engineer | Artificial Intelligence Student @ JKU
 
-<!-- - 🔭 Founder of **[zumatek](https://email-8a5bc.web.app/)** for web/software Development
-- 🔭 I’m currently working on a Covid-19 Tracker **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
+I'm a **Software Engineer with 4+ years of experience** building production applications, currently specializing in **Artificial Intelligence and Machine Learning** at Johannes Kepler University Linz.
 
-<!-- - ✨ Lover of **javascript** -->
+I enjoy combining strong software engineering foundations with machine learning to build **intelligent, scalable, and practical AI systems**.
 
-- ✨ Experienced with JavaScript and Completed Complex Projects with **javascript** and its **framworks/library**
-<!--
-- 🌱 I’m currently learning **Data Structure and Algorithm**
+My current interests include:
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🧠 Machine Learning
+- 🔥 Deep Learning
+- 👁️ Computer Vision
+- 🤖 Generative AI & LLMs
+- 🔎 Retrieval-Augmented Generation
+- ⚙️ ML Engineering
+- 📊 Data Analysis
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://ozumahe.com)** -->
+---
 
-- 📫 How to reach me **ozumahe@gmail.com**
+## 🧠 AI & Machine Learning
 
-<!-- - ⚡ Fun fact **I play games and read technology books some times.** -->
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <!-- 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/2x/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/2x/000000/css3.png"/> </a>  -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/1x/000000/javascript.png"/>  </a> 
-    <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://img.icons8.com/color/1x/typescript.png"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/1x/000000/react-native.png"/> </a>
-    <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/1x/angularjs.png"/> </a>
-    <a href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/color/1x/redux.png"/> </a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/fluency/1x/node-js.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/1x/000000/mysql-logo.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/000000/firebase.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/000000/git.png"/> </a> 
-    <!-- <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/sass.png"/> </a>  -->
-    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/sass-avatar.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/mongodb.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <!-- 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-     -->
-   
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
-<!-- 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+
+**Core Areas**
+
+`Machine Learning` • `Deep Learning` • `Computer Vision` • `CNNs` • `Model Evaluation` • `Data Analysis`
+
+---
+
+## ⚙️ Software & Data Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+**Additional Experience**
+
+`Databricks` • `REST APIs` • `Redux` • `Firebase` • `Data Visualization`
+
+---
+
+# 🚀 Featured AI/ML Projects
+
+## 🛰️ Satellite Image Classification
+
+**CNN • Computer Vision • Deep Learning • Python • Shiny Express**
+
+Developed an end-to-end deep learning application for classifying satellite imagery into **10 land-use / land-cover categories**.
+
+### Highlights
+
+- Developed and trained a **Convolutional Neural Network (CNN)** for multi-class satellite image classification.
+- Built an end-to-end pipeline covering **image preprocessing, training, validation, evaluation, and inference**.
+- Achieved **96% test accuracy** across 10 image classes.
+- Developed an interactive **Shiny Express application** allowing users to upload satellite images and receive real-time classification predictions.
+- Integrated the trained CNN model into a user-facing application for practical model inference.
+
+### Performance
+
+| Metric            |                           Result |
+| ----------------- | -------------------------------: |
+| Test Accuracy     |                          **96%** |
+| Number of Classes |                           **10** |
+| Model             |                          **CNN** |
+| Task              | Multi-class Image Classification |
+
+### Tech Stack
+
+`Python` • `CNN` • `Deep Learning` • `Computer Vision` • `Shiny Express`
+
+**Repository:** [satellite image classification](https://github.com/ozumahe/final_project_satellite_Image_classification)
+
+---
+
+## 🔋 Battery State-of-Health Prediction
+
+**Machine Learning • PyTorch • Time-Series Analysis**
+
+Currently exploring machine-learning approaches for predicting **battery State of Health (SoH)** from historical charging and discharging cycle data.
+
+Planned workflow includes:
+
+- Battery-cycle data preprocessing
+- Feature engineering
+- Neural-network regression with PyTorch
+- Random Forest / XGBoost baselines
+- Model evaluation using MAE, RMSE, and R²
+
+> This project is currently under development.
+
+---
+
+## 🤖 AI Engineering Projects
+
+I'm currently expanding my portfolio with projects around:
+
+- **Large Language Models**
+- **Retrieval-Augmented Generation**
+- **AI Agents**
+- **Vector Databases**
+- **Model Deployment**
+- **AI-powered engineering tools**
+
+More projects coming soon.
+
+---
+
+# 💼 Engineering Background
+
+Before specializing in AI/ML, I built production software across **frontend, backend, mobile, and data-driven applications**.
+
+I currently work at **Kreisel Electric** on engineering applications and data-analysis workflows.
+
+My work includes:
+
+- Migrating data-analysis workflows to **Databricks**
+- Managing structured battery-product and market datasets
+- Developing engineering simulation tools
+- Integrating applications with backend analytical services
+- Building scalable software used for battery concept development
+
+This experience allows me to approach machine learning from both sides:
+
+> **developing ML models and building reliable software systems around them.**
+
+---
+
+# 🎓 Education
+
+### BSc Artificial Intelligence
+
+**Johannes Kepler University Linz 🇦🇹**
+2025 – Present
+
+Focus: Artificial Intelligence & Machine Learning
+
+### BSc Computer Science
+
+**Federal University of Petroleum Resources, Effurun**
+2020 – 2024
+
+---
+
+# 🌱 Currently Learning
+
+I'm currently strengthening my knowledge in:
+
+- Deep Learning with PyTorch
+- Machine Learning Engineering
+- Computer Vision
+- Large Language Models
+- Retrieval-Augmented Generation
+- AI Agents
+- Model Deployment
+- AI Evaluation
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/ozumahe/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ebenezer O's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ozumahe&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ozumahe&show_icons=true&hide_border=true" alt="Ebenezer's GitHub Stats" />
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/ozumahe/github-readme-stats"><img alt="Ozumah Ebenezer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ozumahe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ozumahe/github-readme-stats"><img alt="Ozumah Ebenezer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozumahe&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-
-<a href="https://github.com/ozumahe/github-readme-activity-graph"><img alt="Ozumah Ebenezer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ozumahe&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
-
-<p align="left">
-
-<a href = "https://linkedin.com/in/ozumahe/"><img src="https://img.icons8.com/color/48/linkedin-circled--v1.png"/></a>
-<a href = "https://twitter.com/ozumahe?s=09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://instagram.com/ozumahe"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/ozumahE"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-
-<a href = "https://www.youtube.com/channel/UCvPoeihvp12qf8wauTXEcaA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozumahe&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
-## ❤ Views and Followers
+---
 
-<a href="https://github.com/ozumahe/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ozumahe">
-</a>
-<a href="https://github.com/ozumahe?tab=followers"><img src="https://img.shields.io/github/followers/ozumahe?label=Followers&style=social" alt="GitHub Badge"></a>
+# 🤝 Let's Connect
+
+<p>
+  <a href="https://linkedin.com/in/ozumahe">
+    <img src="https://img.shields.io/badge/LinkedIn-Ebenezer%20Ozumah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/ozumahe">
+    <img src="https://img.shields.io/badge/GitHub-ozumahe-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💡 Current Goal
+
+I'm interested in opportunities in:
+
+**Machine Learning Engineering • AI Engineering • Applied AI • Computer Vision • Generative AI • ML Infrastructure**
+
+particularly internships where I can combine my **software engineering experience with AI/ML development**.
+
+---
+
+<p align="center">
+  <b>Building intelligent systems at the intersection of Machine Learning and Software Engineering.</b>
+</p>
