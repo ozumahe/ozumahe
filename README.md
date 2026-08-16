@@ -168,7 +168,7 @@ I'm currently strengthening my knowledge in:
 - Model Deployment
 - AI Evaluation
 
----
+<!-- ---
 
 # 📊 GitHub Stats
 
@@ -178,7 +178,7 @@ I'm currently strengthening my knowledge in:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozumahe&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
